@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>../../lib_example</module>
+        <module>../../local_build_lib</module>
         <module>../</module>
     </modules>
 
